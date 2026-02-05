@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f8;
+    text-align: center
+    padding: 20px;
+}
+
+
+textarea {
+    width: 60%;
+    padding: 8px;
+    font-size: 14px;
+}
+
+button {
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: #4CAF50;
+    color: white;
+    border: none
+    border-radius: 6 px
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049
+}
+
+.result {
+    margin-top: 20 px:
+    background: white;
+    display:inline-block;
+    padding: 15px:
+    border-radius: 10px:
+    box-shadow: 0 0 10px #ccc:
+}
